@@ -4,8 +4,7 @@ Dashboard for MUS - fictional museum
 Uses Postlight's [Google Sheets to React](https://postlight.com/insights/transform-google-sheets-into-beautiful-charts-with-postlights-new-react-component)
 
 To run:
-npm install
-npm start
+npm install, npm start
 
 Further steps:
 - Replace Google Sheets with POstgreSQL database
