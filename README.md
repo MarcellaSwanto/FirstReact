@@ -7,6 +7,6 @@ To run:
 npm install, npm start
 
 Further steps:
-- Replace Google Sheets with POstgreSQL database
+- Replace Google Sheets with PostgreSQL database
 - Add pages (login, settings..)
 - Add user interactivity and ro-order layout (ex: graph/chart carousel)
